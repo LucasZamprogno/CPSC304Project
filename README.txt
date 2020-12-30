@@ -1,1 +1,1 @@
-Now with more git demo.
+This was a team project for a 3rd year undergrad intro to databases course. These were self directed projects that had to meet some criteria. I think we could choose PHP or Java and we chose PHP because it was pretty new to all of us. This went pretty smoothly other than learning PHP on the fly if I recall.
